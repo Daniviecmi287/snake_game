@@ -1,0 +1,4 @@
+pygame==2.1.2
+numpy==1.21.2
+requests==2.26.0
+matplotlib==3.4.3
